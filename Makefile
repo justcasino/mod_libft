@@ -6,7 +6,7 @@
 #    By: jcasino <justincasino@gmail.com>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/05/09 18:50:57 by jcasino           #+#    #+#              #
-#    Updated: 2017/05/09 19:50:40 by jcasino          ###   ########.fr        #
+#    Updated: 2017/07/02 11:12:13 by jcasino          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -128,7 +128,7 @@ C_FILES	+= ft_atoi.c	\
 #** ft_printf Functions **
 
 
-C_FILES += ft_itoa_uintmax.c 		\
+C_PFFILES += ft_itoa_uintmax.c 		\
 			ft_printf.c								\
 			manage_flags.c						\
 			manage_length.c						\
